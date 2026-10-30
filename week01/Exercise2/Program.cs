@@ -36,6 +36,6 @@ class Program
         Console.WriteLine("congratulations!,You passed");
         }
         else 
-        Console.WriteLine("Keep working hard. You can do better next time!")
+        Console.WriteLine("Keep working hard. You can do better next time!");
     }
 }
