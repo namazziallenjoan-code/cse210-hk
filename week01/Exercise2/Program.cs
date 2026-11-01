@@ -10,19 +10,19 @@ class Program
 
         string letter = "";
 
-        if (percent > 90)
+        if (percent >= 90)
         {
             letter = "A";
         }
-        else if (percent > 80 )
+        else if (percent >= 80 )
         {
             letter = "B";
         }
-        else if (percent > 70)
+        else if (percent >= 70)
         {
             letter = "C";
         }
-        else if (percent > 60)
+        else if (percent >= 60)
         {
             letter = "D";
         }
